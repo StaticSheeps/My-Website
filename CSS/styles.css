@@ -1,0 +1,115 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #66bfbf;
+  font-family: "Satisfy", cursive;
+  font-size: 5.62543rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: "Archivo", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999e;
+  font-family: "Archivo", sans-serif;
+}
+
+p {
+  font-family: "Exo 2", sans-serif;
+  font-size: 1em;
+}
+
+pre {
+  font-family: "Exo 2", sans-serif;
+  font-size: 1em;
+  line-height: 2;
+}
+
+a {
+  color: #11999e;
+  font-family: "Exo 2", sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted 0.5rem #66bfbf;
+  margin: 10px auto 30px;
+  width: 6%;
+}
+
+.paragraph-intro {
+  font-family: "Satisfy", cursive;
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  padding-top: 100px;
+  text-align: center;
+  position: relative;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 350px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  margin-bottom: 10px;
+}
+
+.mountain {
+  position: relative;
+  top: 4px;
+}
+
+.middle-container {
+  padding: 30px;
+}
+
+.profile-img {
+  width: 13rem;
+  border-radius: 50%;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 150px auto 150px;
+  text-align: left;
+  width: 50%;
+}
+
+.keyboard-hobby {
+  float: left;
+  padding-right: 30px;
+  width: 25%;
+}
+
+.coding-hobby {
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  margin-top: 3rem;
+  padding-top: 1rem;
+}
+
+.copyright {
+  color: #eaf6f6;
+  margin-bottom: 0;
+}
